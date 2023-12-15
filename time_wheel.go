@@ -1,4 +1,4 @@
-package go_timewheel
+package time_wheel
 
 import (
 	"container/list"
